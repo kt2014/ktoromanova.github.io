@@ -1,2 +1,2 @@
-# -ktoromanova.github.io
+# ktoromanova.github.io
 My GitHub Page
