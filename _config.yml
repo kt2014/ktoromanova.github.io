@@ -1,1 +1,10 @@
+# Site settings
+# Name of your site (displayed in the header)
+name: Keyti Toromanova
+title: Keyti Toromanova's GitHub Page
+email: keytitoromanova@gmail.com
+description: Find out more about Keyti's work, education and hobbies
+keywords: Keyti Toromanova, Work, Education, Hobbies
+github_username:  ktoromanova
+baseurl: "http://ktoromanova.github.io"
 theme: jekyll-theme-architect
